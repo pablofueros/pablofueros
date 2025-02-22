@@ -8,8 +8,8 @@
 🏀 I love sports, especially Basketball<br>
 
 ## 📊 GitHub Stats
-<div style="display: flex; align-items: center; gap: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablofueros&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
+<div style="display: flex; align: center; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablofueros&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofueros&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
 </div>
 
