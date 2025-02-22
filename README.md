@@ -1,24 +1,19 @@
 # Hi 👋, I'm Pablo, a Data Scientist from Spain! </h1>
 
 ## 💫 About Me and GitHub Stats
+🔭 Currently working on tools that improve our daily lives<br>
+👨🏼‍🎓 Graduated in Mathematics and Computer Science<br>
+🌱 Learning about Data Science and Machine Learning<br>
+🐍 Great handling of Python and Rust acceleration<br>
+🏀 I love sports, especially Basketball<br>
 
-<table>
-  <tr>
-    <td>
-      🔭 Currently working on tools that improve our daily lives<br>
-      👨🏼‍🎓 Graduated in Mathematics and Computer Science<br>
-      🌱 Learning about Data Science and Machine Learning<br>
-      🐍 Great handling of Python and Rust acceleration<br>
-      🏀 I love sports, especially Basketball<br>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pablofueros&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablofueros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
+<div style="display: flex; align-items: center;">
+<img src="https://github-readme-stats.vercel.app/api?username=pablofueros&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablofueros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
+</div>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
