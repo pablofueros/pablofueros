@@ -4,7 +4,7 @@
 <table width="846">
   <tr>
     <td width="500" valign="top">
-      <h2>💫 About Me</h2>
+      <!-- <h2>💫 About Me</h2> -->
       <ul>
         <li><p>🎓 Bachelor in Mathematics · MSc in Data Science</p></li>
         <li><p>🤖 Building LLM applications and AI agents</p></li>
@@ -13,7 +13,7 @@
       </ul>
     </td>
     <td width="346" valign="top">
-      <h2>📊 Stats</h2>
+      <!-- <h2>📊 Stats</h2> -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofueros&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages in my GitHub repositories" height="180" />
     </td>
   </tr>
